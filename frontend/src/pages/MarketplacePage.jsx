@@ -148,7 +148,7 @@ export default function MarketplacePage({ onSelectApi }) {
         )}
       </div>
 
-      {/* Architectural Pillars / Interview Highlights Banner */}
+      {/* Architectural Pillars Banner */}
       <div className="rounded-2xl border border-slate-200 dark:border-slate-800 bg-slate-900 text-white p-8">
         <h3 className="text-lg font-bold text-emerald-400 mb-2 font-mono">
           // Platform Architecture & Gateway Design
