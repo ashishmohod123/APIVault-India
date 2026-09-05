@@ -51,7 +51,7 @@ An enterprise-grade Developer API Marketplace and Gateway platform engineered sp
   - Click **"Execute Request ⚡"** ➔ Watch live JSON response, status code `200 OK`, and response latency (e.g., `18ms`).
   - Instant code snippet generator in **Python (`requests` / `httpx`)**, **JavaScript (`fetch`)**, and **cURL**.
 
-### 3. 🛡️ API Gateway Engine (Interview Standout)
+### 3. 🛡️ API Gateway Engine Architecture
 - **Sliding-Window Rate Limiter**: Returns `429 Too Many Requests` with `Retry-After` header when per-minute limits are exceeded.
 - **Quota Meter**: Tracks monthly consumption and warns developers when usage reaches 80% and 100%.
 - **Cryptographic API Key Vault**: Stored as salted SHA-256 hashes in the database.
@@ -85,4 +85,4 @@ Frontend runs on `http://0.0.0.0:5173`.
 
 ## 👨‍💻 Project Developer
 - **Ashish Mohod** (Full Stack Python Developer, Nagpur, Maharashtra, India)
-- Built for Technical Interviews & Enterprise Developer Portfolios.
+- Enterprise Developer Portfolio Project.
